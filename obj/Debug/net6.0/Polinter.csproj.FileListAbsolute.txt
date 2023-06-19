@@ -1,0 +1,15 @@
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\Polinter.csproj.AssemblyReference.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\Polinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\Polinter.AssemblyInfoInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\Polinter.AssemblyInfo.cs
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\Polinter.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\bin\Debug\net6.0\Polinter.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\bin\Debug\net6.0\Polinter.deps.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\bin\Debug\net6.0\Polinter.runtimeconfig.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\bin\Debug\net6.0\Polinter.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\bin\Debug\net6.0\Polinter.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\Polinter.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\refint\Polinter.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\Polinter.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\Polinter.genruntimeconfig.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu10\Polinter\obj\Debug\net6.0\ref\Polinter.dll
